@@ -60,7 +60,7 @@ class Ui_MainWindowMain(object):
         self.statusbar.setObjectName("statusbar")
         MainWindow.setStatusBar(self.statusbar)
 
-        MainWindow.setWindowTitle("MainWindow")
+        MainWindow.setWindowTitle("Main menu")
         self.pushButton_2.setText("Add Stock")
         self.pushButton_4.setText("Check expiry")
         self.pushButton_3.setText("Bill creation")
